@@ -3,7 +3,7 @@
 Session cloning is one of the most useful tools of Snapp2 Session module. It can save a lot of time. Because of this you don’t have to a create a desired session from scratch
 if we want to populate the same session on another day. 
 
-##To clone session:
+## To clone session:
 * Go to Session in Courses & Sessions module
 * Find the session you want to clone
 

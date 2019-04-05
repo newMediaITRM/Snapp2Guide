@@ -1,6 +1,6 @@
-#Creating a form
+# Creating a form
 
-##Completing The Form with custom messages and documents
+## Completing The Form with custom messages and documents
 
 If we attach a form to a page there is functionality to create what you want the user to see after completing the form. 
 You can create a custom message which the user will see after completing the form. If you wish to include this message then check "Show a success message" box. 
