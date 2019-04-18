@@ -20,7 +20,7 @@ dimension.
 Go back to Hero Units / Course listing hero unit and when you click "Attach Image" you should see your image on the list.   
 ```
 
-* Click "Save" slide button. Your advert will appear on the session details page
+* Click "Save" slide button. Your advert will appear on the course details page
 
 * If you need to attach a url address to the image then go to Media Library, find your image and edit it, then set the Link field
 
